@@ -1,4 +1,5 @@
 ![logo](https://tse1.mm.bing.net/th?id=OIP.EQOopZuYossi0Sd8i_G3bQAAAA&pid=Api&P=0&h=180)
+<img src="https://tse1.mm.bing.net/th?id=OIP.EQOopZuYossi0Sd8i_G3bQAAAA&pid=Api&P=0&h=180" width="100%">
 
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
