@@ -1,4 +1,4 @@
-![logo](https://github.com/1117Sarthak/Sarthak/assets/112814226/b257ef40-2cca-48ba-986d-b659bbd91ebb)
+![logo](https://tse1.mm.bing.net/th?id=OIP.EQOopZuYossi0Sd8i_G3bQAAAA&pid=Api&P=0&h=180)
 
 
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
